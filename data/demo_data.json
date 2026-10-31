@@ -1,0 +1,1052 @@
+{
+  "accounts": [
+    {
+      "id": "yt_zain",
+      "platform": "youtube",
+      "handle": "@techtalkszain",
+      "display_name": "TechTalks with Zain",
+      "followers": 482000,
+      "views": {
+        "24h": 248154,
+        "36h": 370577,
+        "7d": 1456214,
+        "30d": 3897980
+      },
+      "prev_views": {
+        "24h": 184064,
+        "36h": 406433,
+        "7d": 1694801,
+        "30d": 5032810
+      },
+      "follower_gain": {
+        "24h": 884,
+        "36h": 1264,
+        "7d": 5058,
+        "30d": 16863
+      },
+      "top_topics": [
+        "smartphone reviews",
+        "budget tech",
+        "gadgets"
+      ],
+      "audience": {
+        "gender_split": {
+          "male": 78,
+          "female": 20,
+          "other": 2
+        },
+        "age_buckets": {
+          "13-17": 12,
+          "18-24": 44,
+          "25-34": 31,
+          "35-44": 9,
+          "45+": 4
+        },
+        "top_countries": [
+          {
+            "country": "Pakistan",
+            "pct": 54
+          },
+          {
+            "country": "UAE",
+            "pct": 14
+          },
+          {
+            "country": "Saudi Arabia",
+            "pct": 9
+          },
+          {
+            "country": "UK",
+            "pct": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "yt_desi",
+      "platform": "youtube",
+      "handle": "@desieatsdaily",
+      "display_name": "Desi Eats Daily",
+      "followers": 315000,
+      "views": {
+        "24h": 328644,
+        "36h": 497912,
+        "7d": 1896763,
+        "30d": 4041466
+      },
+      "prev_views": {
+        "24h": 308807,
+        "36h": 414059,
+        "7d": 2462989,
+        "30d": 4064566
+      },
+      "follower_gain": {
+        "24h": 1507,
+        "36h": 2154,
+        "7d": 8618,
+        "30d": 28728
+      },
+      "top_topics": [
+        "street food",
+        "recipes",
+        "food challenges"
+      ],
+      "audience": {
+        "gender_split": {
+          "male": 46,
+          "female": 52,
+          "other": 2
+        },
+        "age_buckets": {
+          "13-17": 8,
+          "18-24": 29,
+          "25-34": 38,
+          "35-44": 18,
+          "45+": 7
+        },
+        "top_countries": [
+          {
+            "country": "Pakistan",
+            "pct": 61
+          },
+          {
+            "country": "UK",
+            "pct": 12
+          },
+          {
+            "country": "USA",
+            "pct": 9
+          },
+          {
+            "country": "UAE",
+            "pct": 7
+          }
+        ]
+      }
+    },
+    {
+      "id": "ig_hira",
+      "platform": "instagram",
+      "handle": "@fitwithhira",
+      "display_name": "Fit with Hira",
+      "followers": 268000,
+      "views": {
+        "24h": 290589,
+        "36h": 415592,
+        "7d": 1416102,
+        "30d": 2776025
+      },
+      "prev_views": {
+        "24h": 266699,
+        "36h": 536609,
+        "7d": 1676756,
+        "30d": 2342052
+      },
+      "follower_gain": {
+        "24h": 852,
+        "36h": 1218,
+        "7d": 4872,
+        "30d": 16240
+      },
+      "top_topics": [
+        "home workouts",
+        "healthy eating",
+        "fitness tips"
+      ],
+      "audience": {
+        "gender_split": {
+          "male": 14,
+          "female": 84,
+          "other": 2
+        },
+        "age_buckets": {
+          "13-17": 7,
+          "18-24": 39,
+          "25-34": 40,
+          "35-44": 11,
+          "45+": 3
+        },
+        "top_countries": [
+          {
+            "country": "Pakistan",
+            "pct": 66
+          },
+          {
+            "country": "UAE",
+            "pct": 11
+          },
+          {
+            "country": "UK",
+            "pct": 8
+          },
+          {
+            "country": "Canada",
+            "pct": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "ig_pindi",
+      "platform": "instagram",
+      "handle": "@wanderlustpindi",
+      "display_name": "Wanderlust Pindi",
+      "followers": 174000,
+      "views": {
+        "24h": 171942,
+        "36h": 254136,
+        "7d": 968678,
+        "30d": 1766711
+      },
+      "prev_views": {
+        "24h": 179271,
+        "36h": 249968,
+        "7d": 1134100,
+        "30d": 2092665
+      },
+      "follower_gain": {
+        "24h": 625,
+        "36h": 893,
+        "7d": 3575,
+        "30d": 11918
+      },
+      "top_topics": [
+        "travel vlogs",
+        "hidden gems",
+        "budget travel"
+      ],
+      "audience": {
+        "gender_split": {
+          "male": 52,
+          "female": 46,
+          "other": 2
+        },
+        "age_buckets": {
+          "13-17": 10,
+          "18-24": 47,
+          "25-34": 33,
+          "35-44": 8,
+          "45+": 2
+        },
+        "top_countries": [
+          {
+            "country": "Pakistan",
+            "pct": 72
+          },
+          {
+            "country": "UAE",
+            "pct": 8
+          },
+          {
+            "country": "UK",
+            "pct": 6
+          },
+          {
+            "country": "Germany",
+            "pct": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb_cricket",
+      "platform": "facebook",
+      "handle": "cricketchaicorner",
+      "display_name": "Cricket Chai Corner",
+      "followers": 612000,
+      "views": {
+        "24h": 123751,
+        "36h": 167641,
+        "7d": 568969,
+        "30d": 1398567
+      },
+      "prev_views": {
+        "24h": 127891,
+        "36h": 189609,
+        "7d": 451123,
+        "30d": 1227976
+      },
+      "follower_gain": {
+        "24h": 197,
+        "36h": 282,
+        "7d": 1128,
+        "30d": 3762
+      },
+      "top_topics": [
+        "cricket analysis",
+        "match reactions",
+        "debates"
+      ],
+      "audience": {
+        "gender_split": {
+          "male": 83,
+          "female": 16,
+          "other": 1
+        },
+        "age_buckets": {
+          "13-17": 6,
+          "18-24": 28,
+          "25-34": 33,
+          "35-44": 22,
+          "45+": 11
+        },
+        "top_countries": [
+          {
+            "country": "Pakistan",
+            "pct": 77
+          },
+          {
+            "country": "UAE",
+            "pct": 8
+          },
+          {
+            "country": "UK",
+            "pct": 5
+          },
+          {
+            "country": "Saudi Arabia",
+            "pct": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb_startup",
+      "platform": "facebook",
+      "handle": "startupstoriespk",
+      "display_name": "Startup Stories PK",
+      "followers": 94000,
+      "views": {
+        "24h": 143308,
+        "36h": 214429,
+        "7d": 846881,
+        "30d": 1765227
+      },
+      "prev_views": {
+        "24h": 180561,
+        "36h": 263429,
+        "7d": 1039599,
+        "30d": 1627038
+      },
+      "follower_gain": {
+        "24h": 200,
+        "36h": 286,
+        "7d": 1145,
+        "30d": 3818
+      },
+      "top_topics": [
+        "entrepreneurship",
+        "founder stories",
+        "freelancing"
+      ],
+      "audience": {
+        "gender_split": {
+          "male": 64,
+          "female": 35,
+          "other": 1
+        },
+        "age_buckets": {
+          "13-17": 2,
+          "18-24": 31,
+          "25-34": 46,
+          "35-44": 16,
+          "45+": 5
+        },
+        "top_countries": [
+          {
+            "country": "Pakistan",
+            "pct": 81
+          },
+          {
+            "country": "UAE",
+            "pct": 6
+          },
+          {
+            "country": "UK",
+            "pct": 4
+          },
+          {
+            "country": "USA",
+            "pct": 3
+          }
+        ]
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": "yt_zain_p1",
+      "account_id": "yt_zain",
+      "platform": "youtube",
+      "title": "Is the Rs 60k phone worth it? Honest 30-day test",
+      "hook": "I used this phone for 30 days so you do not have to.",
+      "topics": [
+        "smartphone reviews",
+        "budget tech"
+      ],
+      "published_at": "2026-10-25T12:00:00",
+      "duration_sec": 344,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 49191,
+        "36h": 75798,
+        "7d": 243543,
+        "30d": 730487
+      },
+      "likes": 51573,
+      "comments": 7978,
+      "follower_gain": 1969
+    },
+    {
+      "id": "yt_zain_p2",
+      "account_id": "yt_zain",
+      "platform": "youtube",
+      "title": "5 gadgets under Rs 2000 that feel illegal to own",
+      "hook": "Number three broke my brain.",
+      "topics": [
+        "gadgets",
+        "budget tech"
+      ],
+      "published_at": "2026-10-10T12:00:00",
+      "duration_sec": 267,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 21521,
+        "36h": 33288,
+        "7d": 155515,
+        "30d": 502417
+      },
+      "likes": 31991,
+      "comments": 4602,
+      "follower_gain": 3823
+    },
+    {
+      "id": "yt_zain_p3",
+      "account_id": "yt_zain",
+      "platform": "youtube",
+      "title": "Why every laptop in Pakistan is overpriced",
+      "hook": "Here is the number nobody tells you.",
+      "topics": [
+        "laptops",
+        "pricing"
+      ],
+      "published_at": "2026-10-29T12:00:00",
+      "duration_sec": 403,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 40214,
+        "36h": 52783,
+        "7d": 183028,
+        "30d": 499898
+      },
+      "likes": 35936,
+      "comments": 2700,
+      "follower_gain": 1621
+    },
+    {
+      "id": "yt_zain_p4",
+      "account_id": "yt_zain",
+      "platform": "youtube",
+      "title": "I tried AI tools for a full week of work",
+      "hook": "Day one went badly. Day five changed everything.",
+      "topics": [
+        "AI tools",
+        "productivity"
+      ],
+      "published_at": "2026-10-18T12:00:00",
+      "duration_sec": 858,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 45716,
+        "36h": 73815,
+        "7d": 345074,
+        "30d": 860581
+      },
+      "likes": 39475,
+      "comments": 2095,
+      "follower_gain": 4884
+    },
+    {
+      "id": "yt_zain_p5",
+      "account_id": "yt_zain",
+      "platform": "youtube",
+      "title": "Unboxing the cheapest foldable on the market",
+      "hook": "This costs less than your last phone repair.",
+      "topics": [
+        "unboxing",
+        "smartphone reviews"
+      ],
+      "published_at": "2026-10-09T12:00:00",
+      "duration_sec": 873,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 20611,
+        "36h": 29014,
+        "7d": 112993,
+        "30d": 190889
+      },
+      "likes": 15868,
+      "comments": 1072,
+      "follower_gain": 675
+    },
+    {
+      "id": "yt_desi_p1",
+      "account_id": "yt_desi",
+      "platform": "youtube",
+      "title": "Rs 100 street food challenge in Lahore",
+      "hook": "Can I eat a full meal for under a hundred rupees?",
+      "topics": [
+        "street food",
+        "food challenges"
+      ],
+      "published_at": "2026-10-18T12:00:00",
+      "duration_sec": 406,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 30227,
+        "36h": 43764,
+        "7d": 170278,
+        "30d": 304098
+      },
+      "likes": 15877,
+      "comments": 1245,
+      "follower_gain": 1257
+    },
+    {
+      "id": "yt_desi_p2",
+      "account_id": "yt_desi",
+      "platform": "youtube",
+      "title": "Restaurant-style chicken karahi in 20 minutes",
+      "hook": "Stop ordering karahi, make it in 20.",
+      "topics": [
+        "recipes"
+      ],
+      "published_at": "2026-10-06T12:00:00",
+      "duration_sec": 490,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 70966,
+        "36h": 111895,
+        "7d": 384033,
+        "30d": 776751
+      },
+      "likes": 30917,
+      "comments": 4500,
+      "follower_gain": 7702
+    },
+    {
+      "id": "yt_desi_p3",
+      "account_id": "yt_desi",
+      "platform": "youtube",
+      "title": "Eating only at 5am food stalls",
+      "hook": "Nobody warned me about the 5am menu.",
+      "topics": [
+        "street food"
+      ],
+      "published_at": "2026-10-05T12:00:00",
+      "duration_sec": 297,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 57342,
+        "36h": 86248,
+        "7d": 370258,
+        "30d": 731088
+      },
+      "likes": 31979,
+      "comments": 1696,
+      "follower_gain": 3307
+    },
+    {
+      "id": "yt_desi_p4",
+      "account_id": "yt_desi",
+      "platform": "youtube",
+      "title": "Mom rates my cooking for a whole week",
+      "hook": "She has never lied to me about food.",
+      "topics": [
+        "recipes",
+        "family"
+      ],
+      "published_at": "2026-10-07T12:00:00",
+      "duration_sec": 562,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 26201,
+        "36h": 36726,
+        "7d": 108989,
+        "30d": 340746
+      },
+      "likes": 14569,
+      "comments": 2382,
+      "follower_gain": 3093
+    },
+    {
+      "id": "yt_desi_p5",
+      "account_id": "yt_desi",
+      "platform": "youtube",
+      "title": "Cheapest vs most expensive biryani in the city",
+      "hook": "One of these is a scam.",
+      "topics": [
+        "food challenges",
+        "street food"
+      ],
+      "published_at": "2026-10-12T12:00:00",
+      "duration_sec": 791,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 50010,
+        "36h": 77019,
+        "7d": 321273,
+        "30d": 734079
+      },
+      "likes": 33594,
+      "comments": 5759,
+      "follower_gain": 6740
+    },
+    {
+      "id": "ig_hira_p1",
+      "account_id": "ig_hira",
+      "platform": "instagram",
+      "title": "10-minute no-equipment fat burn",
+      "hook": "If you have 10 minutes, you have no excuses.",
+      "topics": [
+        "home workouts"
+      ],
+      "published_at": "2026-10-24T12:00:00",
+      "duration_sec": 58,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 14794,
+        "36h": 23462,
+        "7d": 71280,
+        "30d": 135325
+      },
+      "likes": 7487,
+      "comments": 356,
+      "follower_gain": 870
+    },
+    {
+      "id": "ig_hira_p2",
+      "account_id": "ig_hira",
+      "platform": "instagram",
+      "title": "What I eat in a day (under 1500 calories)",
+      "hook": "Eating less is not the secret. Eating this is.",
+      "topics": [
+        "healthy eating"
+      ],
+      "published_at": "2026-10-29T12:00:00",
+      "duration_sec": 58,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 64987,
+        "36h": 84164,
+        "7d": 243489,
+        "30d": 530785
+      },
+      "likes": 38876,
+      "comments": 4679,
+      "follower_gain": 4157
+    },
+    {
+      "id": "ig_hira_p3",
+      "account_id": "ig_hira",
+      "platform": "instagram",
+      "title": "3 mistakes ruining your abs workout",
+      "hook": "You are doing number two right now.",
+      "topics": [
+        "fitness tips"
+      ],
+      "published_at": "2026-10-24T12:00:00",
+      "duration_sec": 44,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 28054,
+        "36h": 42591,
+        "7d": 169671,
+        "30d": 319786
+      },
+      "likes": 9655,
+      "comments": 2948,
+      "follower_gain": 3030
+    },
+    {
+      "id": "ig_hira_p4",
+      "account_id": "ig_hira",
+      "platform": "instagram",
+      "title": "Morning stretch routine for desk workers",
+      "hook": "Your back will thank you by day three.",
+      "topics": [
+        "home workouts",
+        "wellness"
+      ],
+      "published_at": "2026-10-09T12:00:00",
+      "duration_sec": 34,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 51230,
+        "36h": 82459,
+        "7d": 298600,
+        "30d": 564902
+      },
+      "likes": 45474,
+      "comments": 3997,
+      "follower_gain": 2705
+    },
+    {
+      "id": "ig_hira_p5",
+      "account_id": "ig_hira",
+      "platform": "instagram",
+      "title": "Gym vs home: the honest answer",
+      "hook": "I trained both ways for 90 days.",
+      "topics": [
+        "fitness tips"
+      ],
+      "published_at": "2026-10-13T12:00:00",
+      "duration_sec": 15,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 48499,
+        "36h": 64176,
+        "7d": 228462,
+        "30d": 432077
+      },
+      "likes": 28489,
+      "comments": 2975,
+      "follower_gain": 1731
+    },
+    {
+      "id": "ig_pindi_p1",
+      "account_id": "ig_pindi",
+      "platform": "instagram",
+      "title": "Hunza on a Rs 15,000 budget",
+      "hook": "Everyone said it was impossible. Here is the receipt.",
+      "topics": [
+        "budget travel",
+        "travel vlogs"
+      ],
+      "published_at": "2026-10-14T12:00:00",
+      "duration_sec": 19,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 34793,
+        "36h": 56380,
+        "7d": 164835,
+        "30d": 292572
+      },
+      "likes": 25945,
+      "comments": 2143,
+      "follower_gain": 1208
+    },
+    {
+      "id": "ig_pindi_p2",
+      "account_id": "ig_pindi",
+      "platform": "instagram",
+      "title": "The village Google Maps forgot",
+      "hook": "No signal, no hotel, no regrets.",
+      "topics": [
+        "hidden gems"
+      ],
+      "published_at": "2026-10-10T12:00:00",
+      "duration_sec": 42,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 49863,
+        "36h": 70675,
+        "7d": 314436,
+        "30d": 538369
+      },
+      "likes": 47302,
+      "comments": 6077,
+      "follower_gain": 5274
+    },
+    {
+      "id": "ig_pindi_p3",
+      "account_id": "ig_pindi",
+      "platform": "instagram",
+      "title": "Sunrise at Fairy Meadows",
+      "hook": "We hiked four hours for this exact second.",
+      "topics": [
+        "travel vlogs"
+      ],
+      "published_at": "2026-10-18T12:00:00",
+      "duration_sec": 43,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 24603,
+        "36h": 33505,
+        "7d": 128944,
+        "30d": 250922
+      },
+      "likes": 21071,
+      "comments": 1634,
+      "follower_gain": 1312
+    },
+    {
+      "id": "ig_pindi_p4",
+      "account_id": "ig_pindi",
+      "platform": "instagram",
+      "title": "Packing for 7 days in one small bag",
+      "hook": "My bag is smaller than your laptop bag.",
+      "topics": [
+        "budget travel",
+        "tips"
+      ],
+      "published_at": "2026-10-22T12:00:00",
+      "duration_sec": 15,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 8008,
+        "36h": 12396,
+        "7d": 43007,
+        "30d": 107136
+      },
+      "likes": 3670,
+      "comments": 890,
+      "follower_gain": 542
+    },
+    {
+      "id": "ig_pindi_p5",
+      "account_id": "ig_pindi",
+      "platform": "instagram",
+      "title": "Train journey through the north",
+      "hook": "The window seat is the whole trip.",
+      "topics": [
+        "travel vlogs"
+      ],
+      "published_at": "2026-10-08T12:00:00",
+      "duration_sec": 46,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 5549,
+        "36h": 8570,
+        "7d": 40691,
+        "30d": 72938
+      },
+      "likes": 3125,
+      "comments": 242,
+      "follower_gain": 832
+    },
+    {
+      "id": "fb_cricket_p1",
+      "account_id": "fb_cricket",
+      "platform": "facebook",
+      "title": "Playing XI debate: who deserves the spot?",
+      "hook": "Be honest, did the selectors get this right?",
+      "topics": [
+        "cricket analysis",
+        "debates"
+      ],
+      "published_at": "2026-10-16T12:00:00",
+      "duration_sec": 179,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 8544,
+        "36h": 12737,
+        "7d": 42622,
+        "30d": 129829
+      },
+      "likes": 10623,
+      "comments": 329,
+      "follower_gain": 469
+    },
+    {
+      "id": "fb_cricket_p2",
+      "account_id": "fb_cricket",
+      "platform": "facebook",
+      "title": "Last over reaction, full match recap",
+      "hook": "I am still shaking after that last over.",
+      "topics": [
+        "match reactions"
+      ],
+      "published_at": "2026-10-26T12:00:00",
+      "duration_sec": 123,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 21133,
+        "36h": 31643,
+        "7d": 121523,
+        "30d": 368784
+      },
+      "likes": 15302,
+      "comments": 2715,
+      "follower_gain": 575
+    },
+    {
+      "id": "fb_cricket_p3",
+      "account_id": "fb_cricket",
+      "platform": "facebook",
+      "title": "Top 5 fastest spells this decade",
+      "hook": "Number one is not who you think.",
+      "topics": [
+        "cricket analysis"
+      ],
+      "published_at": "2026-10-15T12:00:00",
+      "duration_sec": 266,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 9018,
+        "36h": 11494,
+        "7d": 48405,
+        "30d": 126200
+      },
+      "likes": 10308,
+      "comments": 946,
+      "follower_gain": 151
+    },
+    {
+      "id": "fb_cricket_p4",
+      "account_id": "fb_cricket",
+      "platform": "facebook",
+      "title": "Chai and stats: batting averages explained",
+      "hook": "Averages lie. Here is how.",
+      "topics": [
+        "cricket analysis",
+        "education"
+      ],
+      "published_at": "2026-10-22T12:00:00",
+      "duration_sec": 102,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 46817,
+        "36h": 59619,
+        "7d": 172635,
+        "30d": 313423
+      },
+      "likes": 17045,
+      "comments": 2135,
+      "follower_gain": 1397
+    },
+    {
+      "id": "fb_cricket_p5",
+      "account_id": "fb_cricket",
+      "platform": "facebook",
+      "title": "Fan poll: best captain of all time",
+      "hook": "Comment your answer before you read the results.",
+      "topics": [
+        "debates"
+      ],
+      "published_at": "2026-10-15T12:00:00",
+      "duration_sec": 133,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 2882,
+        "36h": 4251,
+        "7d": 21222,
+        "30d": 60741
+      },
+      "likes": 3363,
+      "comments": 702,
+      "follower_gain": 302
+    },
+    {
+      "id": "fb_startup_p1",
+      "account_id": "fb_startup",
+      "platform": "facebook",
+      "title": "From a dorm room to 50 employees: founder story",
+      "hook": "He started with one laptop and a loan from his brother.",
+      "topics": [
+        "founder stories"
+      ],
+      "published_at": "2026-10-28T12:00:00",
+      "duration_sec": 72,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 6059,
+        "36h": 8084,
+        "7d": 28738,
+        "30d": 60662
+      },
+      "likes": 3946,
+      "comments": 426,
+      "follower_gain": 267
+    },
+    {
+      "id": "fb_startup_p2",
+      "account_id": "fb_startup",
+      "platform": "facebook",
+      "title": "How I landed my first 5 freelance clients",
+      "hook": "I sent 200 messages. Here is the one that worked.",
+      "topics": [
+        "freelancing"
+      ],
+      "published_at": "2026-10-27T12:00:00",
+      "duration_sec": 212,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 7590,
+        "36h": 9854,
+        "7d": 35682,
+        "30d": 112540
+      },
+      "likes": 3835,
+      "comments": 1194,
+      "follower_gain": 294
+    },
+    {
+      "id": "fb_startup_p3",
+      "account_id": "fb_startup",
+      "platform": "facebook",
+      "title": "Startup ideas that work in small cities",
+      "hook": "Everyone chases Karachi. Look elsewhere.",
+      "topics": [
+        "entrepreneurship"
+      ],
+      "published_at": "2026-10-27T12:00:00",
+      "duration_sec": 167,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 40792,
+        "36h": 67099,
+        "7d": 233928,
+        "30d": 496766
+      },
+      "likes": 34496,
+      "comments": 3801,
+      "follower_gain": 1125
+    },
+    {
+      "id": "fb_startup_p4",
+      "account_id": "fb_startup",
+      "platform": "facebook",
+      "title": "Pitch deck mistakes investors hate",
+      "hook": "I have seen 300 decks. These mistakes repeat.",
+      "topics": [
+        "entrepreneurship",
+        "funding"
+      ],
+      "published_at": "2026-10-17T12:00:00",
+      "duration_sec": 93,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 11993,
+        "36h": 18516,
+        "7d": 60230,
+        "30d": 166716
+      },
+      "likes": 11720,
+      "comments": 833,
+      "follower_gain": 377
+    },
+    {
+      "id": "fb_startup_p5",
+      "account_id": "fb_startup",
+      "platform": "facebook",
+      "title": "Remote work jobs that pay in dollars",
+      "hook": "Number four needs zero experience.",
+      "topics": [
+        "freelancing"
+      ],
+      "published_at": "2026-10-11T12:00:00",
+      "duration_sec": 85,
+      "thumbnail_url": null,
+      "views": {
+        "24h": 35929,
+        "36h": 49611,
+        "7d": 246337,
+        "30d": 424193
+      },
+      "likes": 14590,
+      "comments": 1752,
+      "follower_gain": 874
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="topbar">
+  <div class="brand"><span class="logo">◆</span> Creator Pulse</div>
+  <div class="badges">
+    <span class="badge">{{ "Demo data" if demo_mode else "Live YouTube mode" }}</span>
+    {% if ai_live %}
+      <span class="badge ok" title="Open-weight model served via the Gemini API">● Gemma live · {{ model }}</span>
+    {% else %}
+      <span class="badge warn" title="Set GEMINI_API_KEY in .env to use Gemma">● Offline AI fallback</span>
+    {% endif %}
+  </div>
+  <div class="actions">
+    <button class="btn" data-action="ideas">✦ Idea generator</button>
+    <button class="btn primary" data-action="add">+ Add account</button>
+  </div>
+</header>
+
+<main class="page">
+  <section class="hero">
+    <h1>Creator leaderboard</h1>
+    <p>All your YouTube, Instagram and Facebook accounts ranked in one view. Click any account for its AI content strategy.</p>
+  </section>
+
+  <section id="stats" class="stats" aria-live="polite"></section>
+
+  <section class="controls">
+    <div class="seg" id="seg-platform" role="tablist" aria-label="Platform">
+      <button data-platform="all" class="on">All platforms</button>
+      <button data-platform="youtube">YouTube</button>
+      <button data-platform="instagram">Instagram</button>
+      <button data-platform="facebook">Facebook</button>
+    </div>
+    <div class="right">
+      <div class="seg" id="seg-metric" aria-label="Metric">
+        <button data-metric="views" class="on">Views</button>
+        <button data-metric="conversions">Follower gain</button>
+      </div>
+      <div class="seg" id="seg-window" aria-label="Time window">
+        <button data-window="24h">24h</button>
+        <button data-window="36h">36h</button>
+        <button data-window="7d" class="on">7 days</button>
+        <button data-window="30d">30 days</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel table-wrap">
+    <table id="board">
+      <thead>
+        <tr><th>#</th><th></th><th>Account</th><th class="num" id="th-views">Views</th><th class="num" id="th-gain">Follower gain</th><th class="col-top">Top post</th><th></th></tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div id="empty" class="empty" hidden>No accounts here yet. Add one with “Add account”.</div>
+  </section>
+</main>
+
+<div id="scrim" class="scrim" hidden></div>
+<aside id="drawer" class="drawer" hidden aria-label="Account details">
+  <div class="drawer-head">
+    <div id="drawer-title"></div>
+    <button class="icon" data-action="close-drawer" aria-label="Close">✕</button>
+  </div>
+  <div class="tabs" id="drawer-tabs">
+    <button data-tab="strategy" class="on">Strategy</button>
+    <button data-tab="posts">Top posts</button>
+  </div>
+  <div id="drawer-body" class="drawer-body"></div>
+</aside>
+
+<div id="modal" class="modal" hidden><div class="modal-card" id="modal-card"></div></div>
+<div id="toast" class="toast" hidden></div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', path='js/app.js') }}"></script>
+{% endblock %}
