@@ -107,7 +107,7 @@ See `docs/DEPLOY_DIGITALOCEAN.md` (Dockerfile included) and `docs/DEMO_SCRIPT.md
 | Name | Role | GitHub |
 |---|---|---|
 | Amir | TBD | @username |
-| Member 2 | TBD | @username |
+| Ibrahim | TBD | @username |
 | Member 3 | TBD | @username |
 
 Workflow: one branch per task (`feature/<name>`), Pull Request, one review, merge. Keep `main` runnable. See `docs/GITHUB_SETUP.md`.
